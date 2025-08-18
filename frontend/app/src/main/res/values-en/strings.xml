@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">KrishiSevak</string>
+    <string name="welcome_title">Welcome to KrishiSevak</string>
+    <string name="welcome_subtitle">Let\'s set up your farming profile</string>
+    <string name="farmer_name">Farmer Name</string>
+    <string name="age">Age</string>
+    <string name="land_area">Land Area (in acres)</string>
+    <string name="preferred_language">Preferred Language</string>
+    <string name="complete_setup">Complete Setup</string>
+    <string name="getting_location">Getting Location...</string>
+    <string name="get_current_location">Get Current Location</string>
+    <string name="farm_location">Farm Location</string>
+    <string name="location_captured">Location captured successfully!</string>
+    <string name="need_location">We need your farm location to provide accurate weather and local information.</string>
+    <string name="chat_hint">Ask anything about farming...</string>
+</resources>
