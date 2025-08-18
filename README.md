@@ -153,7 +153,10 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file
 
 ## 👥 Team
 
-- **Vicky Besra** - _Initial work & Architecture_
+- **Vicky Besra** 
+- **Adesh Ghadsage**
+- **Ayan Singha**
+- **Kartikeya Nari**
 
 ## 🙏 Acknowledgments
 
@@ -161,10 +164,3 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file
 - TensorFlow for ML models
 - FastAPI framework
 - Android Jetpack libraries
-
-## 📧 Support
-
-For support:
-- Email: support@krishisevak.com
-- Slack: [Join Channel](https://krishisevak.slack.com)
-- Issues: GitHub Issues Tab
