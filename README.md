@@ -146,6 +146,7 @@ backend.url=http://10.0.2.2:8000
 3. Commit changes (`git commit -m 'Add AmazingFeature'`)
 4. Push branch (`git push origin feature/AmazingFeature`)
 5. Open Pull Request
+
 ## 👥 Team
 
 - **Vicky Besra** 
