@@ -154,7 +154,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file
 ## 👥 Team
 
 - **Vicky Besra** 
-- **Adesh Ghadsage**
+- **Adesh Ghadage**
 - **Ayan Singha**
 - **Kartikeya Nari**
 
