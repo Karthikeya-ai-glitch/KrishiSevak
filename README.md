@@ -154,6 +154,13 @@ backend.url=http://10.0.2.2:8000
 - **Ayan Singha**
 - **Kartikeya Nari**
 
+ ## 🚀 My Contribution
+
+- Fine-tuned ML models for plant disease detection
+- Collected and cleaned agricultural datasets
+- Integrated models with the Android frontend
+- Represented & presented the project at Capital One Launchpad Hackathon
+
 ## 🙏 Acknowledgments
 
 - OpenAI/Claude for LLM capabilities
